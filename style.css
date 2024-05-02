@@ -1,0 +1,44 @@
+.intro{
+background-color: yellow;
+}
+
+#firstname {
+  background-color: yellow;
+}
+
+
+ #firstname{
+  background-color: yellow;
+}
+#hometown{
+ background-color: yellow;
+}
+
+p.intro3 {
+  background-color: yellow;
+}
+
+div > p {
+  background-color: yellow;
+}
+
+a[target]{
+
+background-color: yellow;
+}
+
+[title~="flower"]{
+border: 5px solid yellow;
+
+}
+
+div[class^="test"] {
+  background: #ffff00;
+}
+
+
+input:checked {
+  height: 50px;
+  width: 50px;
+  
+}
